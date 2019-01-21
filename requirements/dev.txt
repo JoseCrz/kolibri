@@ -8,4 +8,4 @@ sphinx-autobuild
 django-rest-swagger==2.2.0
 coreapi==2.3.3
 tabulate==0.8.2
-fonttools==3.29.0
+fonttools==3.36.0
